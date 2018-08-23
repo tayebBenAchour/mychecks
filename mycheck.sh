@@ -12,7 +12,7 @@ do
  if [ "$?" != 0 ];then
   echo "✗ $host"
  else
-  echo "✔$host"
+  echo "✔ $host"
  fi 
 done < tmp 
 
