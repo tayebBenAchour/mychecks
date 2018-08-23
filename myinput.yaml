@@ -1,0 +1,4 @@
+checks:
+     ping:
+          google: google.com:443
+          mysite: mysiteooassdfqsdfq:443
